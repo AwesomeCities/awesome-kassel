@@ -1,6 +1,6 @@
 # Awesome Kassel
 
-> A curated list of Kassels's awesomeness
+> A curated list of Kassel's awesomeness
 
 ## Coffee
 
