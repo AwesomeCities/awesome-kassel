@@ -85,6 +85,12 @@
 - [Orangerie Kassel] (https://goo.gl/maps/fRF8MfMEiBE2)
 - [Löwenburg Kassel] (https://goo.gl/maps/J3GJP8io2MG2)
 
+## Contributing
+
+You're very welcome to participate in this list! Please make sure you read the [contribution guidelines](Contribution.md) and [code of conduct](code-of-conduct.md) before you submit a pull request.
+
+Also be sure that not to add entries that are mediocre or only good. We want awesome!
+
 ## Slack Channel
 
 There is a slack chat in case you want to stay connected.
