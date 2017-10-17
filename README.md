@@ -9,14 +9,15 @@
 
 ## Lunch
 
-- [Bar La Bodega] (https://goo.gl/maps/obEvM3hech12)
-- [Chevy American Diner] (https://goo.gl/maps/7w273s8VqR72)
+- [Bar La Bodega](https://goo.gl/maps/obEvM3hech12)
+- [Chevy American Diner](https://goo.gl/maps/7w273s8VqR72)
 - [Enchilada Kassel](https://goo.gl/maps/NNKQ3u1SUFL2)
 - [Pizzeria Boys and Girls](https://goo.gl/maps/HtcopdEs6yG2)
 - [Ristorante Pinocchio](https://goo.gl/maps/hQVwVhKMoH32)
 - [Tat-Urfa](https://goo.gl/maps/hBZvEDrpV9G2)
 - [Take Hallali Burger](https://goo.gl/maps/QY6M6sqqkE12)
 - [Tokyo Running Sushi](https://goo.gl/maps/LzymbMvU8qv)
+- [Zum Glücklichen Bergschweinchen](https://goo.gl/maps/Ybx7iKtLy2U2)
 
 ## Beverages
 
@@ -29,6 +30,7 @@
 - [Komödienstadl - Bavarian Restaurant](https://goo.gl/maps/tEV94NULiyG2)
 - [Sabor Flamenco](https://goo.gl/maps/pgwHzWfysqN2)
 - [Scenario](https://goo.gl/maps/4uVRZHGnVLq)
+- [Abessina](https://goo.gl/maps/dwW4LbJDwuT2)
 
 ## Food Markets
 
@@ -47,6 +49,7 @@
 - [Maya Coba](https://goo.gl/maps/bav8M1hfMzn)
 - [The Shamrock Irish Pub](https://goo.gl/maps/31Zjwf1Bwh42)
 - [Yes Bar & Lounge](https://goo.gl/maps/v5kGhcYRtgu)
+- [Bar Seibert](https://goo.gl/maps/f227zGYa5rn)
 
 ## Nightlife
 
