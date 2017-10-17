@@ -58,7 +58,7 @@
 
 ## Shops
 
-- Nothing here yet, you know some cool location? Add it here!
+- [Wild Wood Gallery & Store](https://goo.gl/maps/5nnjpxm7d7K2)
 
 ## Thrills
 
