@@ -53,8 +53,8 @@
 
 ## Nightlife
 
-- [A.R.M.] (https://goo.gl/maps/xUwkuLCXYe82)
-- [Joe's Garage] (https://goo.gl/maps/QXkF9jurNPD2)
+- [A.R.M.](https://goo.gl/maps/xUwkuLCXYe82)
+- [Joe's Garage](https://goo.gl/maps/QXkF9jurNPD2)
 - [Musikpark A7](https://goo.gl/maps/1n5NdWWpBr92)
 - [The Hemingway Club](https://goo.gl/maps/3ZYs7w5RBNJ2)
 - [York](https://goo.gl/maps/y8CjwB76qho)
@@ -65,8 +65,8 @@
 
 ## Thrills
 
-- [EXITgameKassel] (https://goo.gl/maps/wVqZBayR5qF2)
-- [Kletterwald Kassel (Climbing Woods)] (https://goo.gl/maps/z9qPA8ec8w42)
+- [EXITgameKassel](https://goo.gl/maps/wVqZBayR5qF2)
+- [Kletterwald Kassel (Climbing Woods)](https://goo.gl/maps/z9qPA8ec8w42)
 - [Paintball Action Kassel](https://goo.gl/maps/3o9rQ9xqGdE2)
 
 ## Relaxing
@@ -82,11 +82,11 @@
 
 ## Locations
 
-- [Bugasee] (https://goo.gl/maps/zDQPd6amNKp)
-- [Friedrichsplatz] (https://goo.gl/maps/L2nqQn82VGq)
-- [Herkules Kassel] (https://goo.gl/maps/r36yi1u3xCu)
-- [Orangerie Kassel] (https://goo.gl/maps/fRF8MfMEiBE2)
-- [Löwenburg Kassel] (https://goo.gl/maps/J3GJP8io2MG2)
+- [Bugasee](https://goo.gl/maps/zDQPd6amNKp)
+- [Friedrichsplatz](https://goo.gl/maps/L2nqQn82VGq)
+- [Herkules Kassel](https://goo.gl/maps/r36yi1u3xCu)
+- [Orangerie Kassel](https://goo.gl/maps/fRF8MfMEiBE2)
+- [Löwenburg Kassel](https://goo.gl/maps/J3GJP8io2MG2)
 
 ## Contributing
 
