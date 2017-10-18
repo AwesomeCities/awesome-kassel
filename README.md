@@ -51,7 +51,7 @@
 - [Yes Bar & Lounge](https://goo.gl/maps/v5kGhcYRtgu)
 - [Bar Seibert](https://goo.gl/maps/f227zGYa5rn)
 - [Mutter](https://goo.gl/maps/egW5bzYJ2bS2)
-- [JWD] (https://goo.gl/maps/EUmnTs128uJ2)
+- [JWD](https://goo.gl/maps/EUmnTs128uJ2)
 
 ## Nightlife
 
