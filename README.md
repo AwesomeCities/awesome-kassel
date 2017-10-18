@@ -68,6 +68,7 @@
 - [EXITgameKassel](https://goo.gl/maps/wVqZBayR5qF2)
 - [Kletterwald Kassel (Climbing Woods)](https://goo.gl/maps/z9qPA8ec8w42)
 - [Paintball Action Kassel](https://goo.gl/maps/3o9rQ9xqGdE2)
+- [Lasergame Kassel](https://goo.gl/maps/nFVcXLwDZGP2)
 
 ## Relaxing
 
@@ -87,6 +88,7 @@
 - [Herkules Kassel](https://goo.gl/maps/r36yi1u3xCu)
 - [Orangerie Kassel](https://goo.gl/maps/fRF8MfMEiBE2)
 - [Löwenburg Kassel](https://goo.gl/maps/J3GJP8io2MG2)
+- [Bismarckturm](https://goo.gl/maps/DX7Eq7w2sFP2)
 
 ## Contributing
 
