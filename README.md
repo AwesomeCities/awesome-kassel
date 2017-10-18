@@ -50,6 +50,8 @@
 - [The Shamrock Irish Pub](https://goo.gl/maps/31Zjwf1Bwh42)
 - [Yes Bar & Lounge](https://goo.gl/maps/v5kGhcYRtgu)
 - [Bar Seibert](https://goo.gl/maps/f227zGYa5rn)
+- [Mutter](https://goo.gl/maps/egW5bzYJ2bS2)
+- [JWD] (https://goo.gl/maps/EUmnTs128uJ2)
 
 ## Nightlife
 
@@ -89,6 +91,8 @@
 - [Orangerie Kassel](https://goo.gl/maps/fRF8MfMEiBE2)
 - [Löwenburg Kassel](https://goo.gl/maps/J3GJP8io2MG2)
 - [Bismarckturm](https://goo.gl/maps/DX7Eq7w2sFP2)
+- [Kleiner Herkules](https://goo.gl/maps/a39SCu1ETwK2)
+- [Hirzstein](https://goo.gl/maps/WH3rq2mtz7x)
 
 ## Contributing
 
