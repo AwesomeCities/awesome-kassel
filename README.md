@@ -11,6 +11,7 @@
 
 - [Bar La Bodega](https://goo.gl/maps/obEvM3hech12)
 - [Chevy American Diner](https://goo.gl/maps/7w273s8VqR72)
+- [Marivos](https://goo.gl/maps/yYMy9bH2is92)
 - [Enchilada Kassel](https://goo.gl/maps/NNKQ3u1SUFL2)
 - [Pizzeria Boys and Girls](https://goo.gl/maps/HtcopdEs6yG2)
 - [Ristorante Pinocchio](https://goo.gl/maps/hQVwVhKMoH32)
